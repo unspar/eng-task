@@ -1,6 +1,2 @@
-/auth   AuthR   Auth   getAuth
-
-
-
-/comments CommentR POST
+/task TaskR POST
 
